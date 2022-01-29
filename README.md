@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @Khol1TON
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Khol1TON/Khol1TON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 wget https://raw.githubusercontent.com/igroman787/mytonctrl/master/scripts/install.sh
 
 sudo bash install.sh -m full
+
